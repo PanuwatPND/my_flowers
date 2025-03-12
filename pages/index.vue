@@ -17,12 +17,6 @@
       <p class="mt-4 text-lg text-purple-600">{{ message }}</p>
     </motion-div>
 
-    <!-- <button
-      @click="goToGallery"
-      class="mt-6 px-6 py-3 bg-purple-500 text-white rounded-lg shadow-md hover:bg-purple-600 transition"
-    >
-      ไปดูอัลบั้มรูป 📸
-    </button> -->
   </div>
 </template>
 
